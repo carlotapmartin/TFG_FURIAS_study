@@ -1,2 +1,2 @@
-# TFG_FURIAS_study
+# FURIAS study
 R code for FURIAS study
